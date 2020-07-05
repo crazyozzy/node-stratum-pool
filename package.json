@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/crazyozzy/node-multi-hashing.git  --branch yespower-blake2b"
+        "url": "https://github.com/crazyozzy/node-multi-hashing.git"
     },
     "dependencies": {
         "async": "^2.6.1",
